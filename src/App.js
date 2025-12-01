@@ -261,7 +261,7 @@ function App() {
               },
               { 
                 icon: '📋',
-                number: '33,000+',
+                number: '40,000+',
                 label: 'Policies Automated',
                 description: 'Designed automated donor policy issuance system with Email, SMS & WhatsApp communication, eliminating manual processing entirely',
                 color: 'bg-blue-50 border-blue-200 hover:border-blue-400'
